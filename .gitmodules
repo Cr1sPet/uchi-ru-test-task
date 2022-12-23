@@ -1,0 +1,3 @@
+[submodule "ex10"]
+	path = ex10
+	url = git@github.com:Cr1sPet/uchi-blog.git
