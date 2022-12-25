@@ -1,10 +1,12 @@
+# frozen_string_literal: true
+
 module UchiRuTestTask
   class Mapping
     def mappings
       {
-      red: 'стоять',
-      green: 'идти',
-      yellow: 'ждать'
+        red: 'стоять',
+        green: 'идти',
+        yellow: 'ждать'
       }
     end
   end
